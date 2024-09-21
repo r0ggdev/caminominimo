@@ -16,7 +16,7 @@ visualización clara y detallada del funcionamiento interno del algoritmo
  > - pwd : para mostrar del directorio actual
  > - ls : para mostrar los archivos de la carpeta
 
-<video controls src="static/sources/md/basicsComands.mp4" title="Comandos Basicos"></video>
+![alt text](static/sources/md/basicsComands.gif)
 
  1. Dentro de una terminal (powershell) nos dirigiremos hacía la ruta del repositorio clonado
 
